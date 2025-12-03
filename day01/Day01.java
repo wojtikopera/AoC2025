@@ -16,7 +16,7 @@ public class Day01 {
         return current;
     }
 
-    public static void main(String[] args) throws IOException {
+    static void main() throws IOException {
 
         int dial = 50;
         int zeros = 0;
